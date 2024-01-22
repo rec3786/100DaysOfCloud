@@ -45,8 +45,6 @@
 
 ✍️ Describe what you think you think you want to do next.
 
-## Social Proof
+## Acknowlegements
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Digital Cloud Challenge Labs](https://digitalcloud.training/hands-on-challenge-labs/)
