@@ -80,4 +80,4 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
 
 ## Acknowlegements
 
-[Digital Cloud Challenge Labs](https://digitalcloud.training/hands-on-challenge-labs/)
+⭐ [Digital Cloud Challenge Labs](https://digitalcloud.training/hands-on-challenge-labs/)
