@@ -1,5 +1,3 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 <p align="center">
   <img src="Implement_ELB_EC2s.png">
 </p>
