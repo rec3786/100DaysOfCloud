@@ -25,8 +25,7 @@
 
 ## Lab Description
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (Amazon EC2) instances were configured. First, two EC2 instances as web servers were configured. Next, I created a target group that included the EC2 instances. Finally, I created a load balancer for the EC2 instances.
 
 ## Learning Objectives
 
