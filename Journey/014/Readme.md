@@ -55,32 +55,28 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
     </a>
 </p>
     2. Create an Elastic Load Balancer.
-
+<p align="center">
+    <a href="img/">
+        <img src="LoadBalancerCreated.png">
+    </a>
+</p>
     3. Configure the routing by creating a "Target Group". 
-
-    4. Register EC2 instances. 
-
-    5. 
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+<p align="center">
+    <a href="img/">
+        <img src="Registered_Targets.png">
+    </a>
+</p>
+    4. Test the EC2s with the ELB implemented. The Elastic Load Balancer is now set up with (2) EC2 instances,and can now distribute incoming traffic evenly between them.
+<p align="center">
+    <a href="img/">
+        <img src="EC2_1.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="EC2_2.png">
+    </a>
+</p>
 
 ## Acknowlegements
 
