@@ -21,8 +21,8 @@
 
 ## Services Covered
 
--<img src="EC2.png"> Elastic Cloud Computing
--<br> <img src="ELB.png"> Elastic Load Balancer <br/>
+<img src="EC2.png"> Elastic Cloud Computing
+<br> <img src="ELB.png"> Elastic Load Balancer <br/>
 
 ## Lab Description
 
