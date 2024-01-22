@@ -33,7 +33,7 @@
 
 ## Lab Description
 
-In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (Amazon EC2) instances were configured. First, two EC2 instances as web servers were configured. Next, I created a target group that included the EC2 instances. Finally, I created a load balancer for the EC2 instances.
+In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (Amazon EC2) instances were configured. First, two EC2 instances as web servers were configured. Next, I created a targeoup that included the EC2 instances. Finally, I created a load balancer for the EC2 instances.
 
 ## Learning Objectives
 
@@ -44,7 +44,7 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
    2024.01.23
 
 ## Prerequisites
-*AWS Account or *DigitalCloud Training Challenge Lab Subscription
+*AWS Account or *DigitalCloud Training Challenge Lab subscription
 
 ## Lab Steps
 
