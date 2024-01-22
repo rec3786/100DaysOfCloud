@@ -21,19 +21,20 @@
 
 ## Services Covered
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+-<img src="EC2s.png"> Elastic Cloud Computing
+-<img src="ELB.png"> Elastic Load Balancer
 
 ## Lab Description
 
-- In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (Amazon EC2) instances were configured. First, two EC2 instances as web servers were configured. Next, I created a target group that included the EC2 instances. Finally, I created a load balancer for the EC2 instances.
+In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (Amazon EC2) instances were configured. First, two EC2 instances as web servers were configured. Next, I created a target group that included the EC2 instances. Finally, I created a load balancer for the EC2 instances.
 
 ## Learning Objectives
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ⭐ Create Elastic Compute Clouds
+- ⭐ Implement an Elastic Load Balancer to switch between the two EC2s
 
 ## Lab date
-
+   2024.01.23
 
 ## Lab Steps
 
