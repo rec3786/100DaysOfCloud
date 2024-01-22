@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="100_AWS_Projects.png">
+  <img src="100_AWS_Projects1.png">
 </p>
 
 ## The Challenge
