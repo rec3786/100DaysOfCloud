@@ -48,7 +48,19 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
 
 ## Lab Steps
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+    1. Create (2) EC2 instances that are running in the same AWS region. 
+<p align="center">
+    <a href="img/">
+        <img src="2-EC2_Created.png">
+    </a>
+</p>
+    2. Create an Elastic Load Balancer.
+
+    3. Configure the routing by creating a "Target Group". 
+
+    4. Register EC2 instances. 
+
+    5. 
 
 ### Step 1 — Summary of Step
 
