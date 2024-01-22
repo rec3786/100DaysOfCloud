@@ -13,11 +13,18 @@
     </p>
 </p>
 
-# New post title here
-
-## Lab Details
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+<details open="open">
+  <summary><h2 style="display: inline-block">Lab Details</h2></summary>
+  <ol>
+    <li><a href="#services-covered">Services covered</a></li>
+    <li><a href="#lab-description">Lab description</a></li>
+    <li><a href="#learning-objectives">Lab objectives</a></li>
+    <li><a href="#lab-date">Lab date</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>    
+    <li><a href="#lab-steps">Lab steps</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
 ## Services Covered
 
@@ -30,8 +37,8 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
 
 ## Learning Objectives
 
-- ⭐ Create Elastic Compute Clouds
-- ⭐ Implement an Elastic Load Balancer to switch between the two EC2s
+⭐ Create Elastic Compute Clouds
+⭐ Implement an Elastic Load Balancer to switch between the two EC2s
 
 ## Lab date
    2024.01.23
