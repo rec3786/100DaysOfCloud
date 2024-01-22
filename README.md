@@ -11,8 +11,6 @@
 
 ## Rose's Cloud Journey
 
-[✍️ Introduce yourself]
-
 I have embarked on an exciting journey to delve into the realm of cloud computing through the '100 Days of Cloud/Project' challenge. This project represents a pivotal step in my career transition, as I am eager to gain hands-on experience in this dynamic field. My enthusiasm stems from the belief that immersing myself in this challenge will not only broaden my knowledge but also unlock new opportunities in the world of cloud computing. I look forward to the growth and insights this endeavor will bring as I navigate the transformative landscape of cloud technology. 
 
 At the conclusion of the "100 Days of Cloud" challenge, my objective is to have undergone a significant transformation, equipping myself with the knowledge and skills required for an AWS Solution Architect role. I aspire to possess a profound understanding of cloud technologies, hands-on experience in deploying and managing AWS solutions, and the confidence to excel in architecting cloud-based systems.
