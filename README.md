@@ -15,7 +15,9 @@
 
 I have embarked on an exciting journey to delve into the realm of cloud computing through the '100 Days of Cloud/Project' challenge. This project represents a pivotal step in my career transition, as I am eager to gain hands-on experience in this dynamic field. My enthusiasm stems from the belief that immersing myself in this challenge will not only broaden my knowledge but also unlock new opportunities in the world of cloud computing. I look forward to the growth and insights this endeavor will bring as I navigate the transformative landscape of cloud technology. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the conclusion of the "100 Days of Cloud" challenge, my objective is to have undergone a significant transformation, equipping myself with the knowledge and skills required for an AWS Solution Architect role. I aspire to possess a profound understanding of cloud technologies, hands-on experience in deploying and managing AWS solutions, and the confidence to excel in architecting cloud-based systems.
+
+By immersing myself in this intensive journey, I am preparing myself to become a well-rounded professional capable of designing and implementing complex cloud solutions on the AWS platform. This endeavor not only aligns with my passion for cloud computing but also positions me as a competitive candidate for an AWS Solution Architect role, where I can contribute effectively to the design and optimization of cloud infrastructures for businesses and organizations.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
