@@ -43,6 +43,9 @@ In this challenge, Elastic Load Balancing for two Amazon Elastic Compute Cloud (
 ## Lab date
    2024.01.23
 
+## Prerequisites
+*AWS Account or *DigitalCloud Training Challenge Lab Subscription
+
 ## Lab Steps
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
