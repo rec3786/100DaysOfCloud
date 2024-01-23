@@ -55,7 +55,7 @@ In this challenge, Amazon Elastic Compute Cloud (Amazon EC2) instances are confi
 </p>
 <p align="center">
     <a href="img/">
-        <img src="SecuirtyGroupCreated.png">
+        <img src="SecurityGroupCreated.png">
     </a>
 </p>
     2. Create a launch template. Configure a launch template that will be used with EC2 Auto Scaling.
