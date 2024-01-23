@@ -1,52 +1,102 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<br />
 
-# New post title here
+<p align="center">
+    <a href="img/">
+        <img src="ASG-creates-EC2s.png">
+    </a>
+    <h3 align="center">100 Projects in Cloud</h3>
+<p align="center">
+    Create an EC2 instance by using an Auto Scaling Group (ASG)
+        <br />
+        Lab 13
+        <br/>
+    </p>
+</p>
 
-## Introduction
+<details open="open">
+  <summary><h2 style="display: inline-block">Lab Details</h2></summary>
+  <ol>
+    <li><a href="#services-covered">Services covered</a></li>
+    <li><a href="#lab-description">Lab description</a></li>
+    <li><a href="#learning-objectives">Lab objectives</a></li>
+    <li><a href="#lab-date">Lab date</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>    
+    <li><a href="#lab-steps">Lab steps</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## Services Covered
 
-## Prerequisite
+<img src="EC2.png"> Elastic Cloud Computing
+<br> <img src="ASG.png"> Auto Scaling Group <br/>
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Lab Description
 
-## Use Case
+In this challenge, Amazon Elastic Compute Cloud (Amazon EC2) instances are configured and deployed using an Auto Scaling Group (ASG). First, a security group for a launch template is created. Next, an Auto Scaling Group is created. Finally, the Auto Scaling Group is tested. 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Learning Objectives
 
-## Cloud Research
+⭐ Create an Auto Scaling Group that automatically creates EC2 instances.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Lab date
+   2024.01.23
 
-## Try yourself
+## Prerequisites
+*AWS Account or *DigitalCloud Training Challenge Lab subscription
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## Lab Steps
 
-### Step 1 — Summary of Step
+    1. Create a security group that allows inbound HTTP traffic. 
+<p align="center">
+    <a href="img/">
+        <img src="SecurityGroupProperties.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="SecuirtyGroupCreated.png">
+    </a>
+</p>
+    2. Create a launch template. Configure a launch template that will be used with EC2 Auto Scaling.
+<p align="center">
+    <a href="img/">
+        <img src="LaunchTemplateProperties.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="LaunchTemplateCreated.png">
+    </a>
+</p>
+    3. Create an Auto Scaling Group. 
+<p align="center">
+    <a href="img/">
+        <img src="ASGProperties.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="ASGCreated.png">
+    </a>
+</p>
+    4. Test the web server instances. Go to the public IPv4 DNS address of each of the new web server instances, and then verify that the custom home page is displayed. 
+<p align="center">
+    <a href="img/">
+        <img src="EC2InstancesCreated.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="EC2Instance1-Created.png">
+    </a>
+</p>
+<p align="center">
+    <a href="img/">
+        <img src="EC2Instance2-Created.png">
+    </a>
+</p>
 
-![Screenshot](https://via.placeholder.com/500x300)
+## Acknowlegements
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+⭐ [Digital Cloud Challenge Labs](https://digitalcloud.training/hands-on-challenge-labs/)
