@@ -37,7 +37,7 @@ By immersing myself in this intensive journey, I am preparing myself to become a
 
 - [ ] ☁️ 11 > [Launch an EC2 instance from a custom Amazon Machine Image (AMI).](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Create and configure an Auto Scaling.](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [Create and EC2 instance by using an Auto Scaling Group (ASG).](Journey/013/Readme.md)
+- [ ] ☁️ 13 > [Create and EC2 instance by using an Auto Scaling Group (ASG).](Journey/013-Create-EC2-Using-ASG/Readme.md)
 - [ ] ☁️ 14 > [Setup a Load Balancer with EC2 instances.](Journey/014-Implement-ELB-EC2s/Readme.md)
 - [ ] ☁️ 15 > [Deploy a serverless application using AWS Lambda.](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Explore AWS Elastic Beanstalk for web app deployment.](Journey/016/Readme.md)
