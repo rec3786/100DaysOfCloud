@@ -3,7 +3,7 @@
 </p>
 
 ## The Challenge
-1. This project is a spin on the original 100 Days of Cloud Challenge. The idea is to revise it to 100 projects done in hopefully less than 100 days. You can read about the orginal challenge and register for it at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
+1. This project is a spin on the original 100 Days of Cloud Challenge. The idea is to revise it to 100 projects or tasks done in hopefully less than 100 days. You can read about the orginal challenge and register for it at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. There's a Discord Channel at [Discord Channel](https://discord.gg/c6Db8nY)
 3. This project's template was downloaded at [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
 4. Other templates include [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and can be used to document my day-to-day progress.
