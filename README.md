@@ -35,8 +35,8 @@ By immersing myself in this intensive journey, I am preparing myself to become a
 
 ## Day 11-20: Compute Services
 
-- [ ] ☁️ 11 > [Create and manage EC2 instances.](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [Launch an EC2 instance from a custom Amazon Machine Image (AMI).](Journey/012/Readme.md)
+- [ ] ☁️ 11 > [Launch an EC2 instance from a custom Amazon Machine Image (AMI).](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Create EC2 Instances by Using Auto Scaling.](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [Create and configure an Auto Scaling Group (ASG).](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Setup a Load Balancer with EC2 instances.](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Deploy a serverless application using AWS Lambda.](Journey/015/Readme.md)
